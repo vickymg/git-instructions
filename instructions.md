@@ -30,6 +30,7 @@ $ pwd
 $ git init
 ```
 You should see a message stating that an empty git repository has been initialized
+
 7. Create some files for your project - maybe start with an html file...
 ```
 $ touch index.html
